@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_roll_number">Enter your Roll Number</string>
+    <string name="enter_your_phone_number">Enter your Phone Number</string>
+    <string name="enter_your_mail_address">Enter your Email Address</string>
+    <string name="reading_books">Reading Books</string>
+    <string name="watching_tv">Watching TV</string>
+    <string name="playing_games">Playing Games</string>
+    <string name="surfing_internet">Surfing Internet</string>
+    <string name="practicing_coding">Practicing Coding</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string-array name="branch">
+        <item>Computer Science Engineering</item>
+        <item>Electronics And Electronics Engineering</item>
+        <item>Electronics And Communication Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Mechanical Engineering</item>
+    </string-array>
+</resources>
