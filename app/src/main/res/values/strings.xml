@@ -11,6 +11,8 @@
     <string name="practicing_coding">Practicing Coding</string>
     <string name="male">male</string>
     <string name="female">female</string>
+    <string name="rating">rating</string>
+    <string name="feedback">feedback</string>
     <string-array name="branch">
         <item>Computer Science Engineering</item>
         <item>Electronics And Electronics Engineering</item>
