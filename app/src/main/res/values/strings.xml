@@ -13,6 +13,7 @@
     <string name="female">female</string>
     <string name="rating">rating</string>
     <string name="feedback">feedback</string>
+    <string name="register">REGISTER</string>
     <string-array name="branch">
         <item>Computer Science Engineering</item>
         <item>Electronics And Electronics Engineering</item>
