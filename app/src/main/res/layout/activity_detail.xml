@@ -32,16 +32,22 @@
         android:text="TextMAIL" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/textBranch"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="TextBranch" />
 
     <TextView
-        android:id="@+id/textView6"
+        android:id="@+id/textHobbies"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="Hobbies" />
+
+    <TextView
+        android:id="@+id/feedbacknote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/feedback" />
 
 
 </LinearLayout>
